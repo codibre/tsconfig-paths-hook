@@ -2,7 +2,7 @@ name: semantic-release
 
 on:
   push:
-    branches: [mainIgnore]
+    branches: [main]
 
 jobs:
   semantic:
