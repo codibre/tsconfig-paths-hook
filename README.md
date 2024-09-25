@@ -32,7 +32,7 @@ For **jest**, it'd look like this:
         {
           "astTransformers": {
             "before": [
-              "tsconfig-path-hooks/dist/index"
+              "node_modules/tsconfig-paths-hook/transformer"
             ]
           }
         }
