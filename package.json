@@ -1,7 +1,7 @@
 {
   "name": "tsconfig-paths-hook",
   "description": "hooks to use tsconfig-paths directly as a ast transformer of jest or ttypescript",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "author": {
     "name": "Thiago O Santos <tos.oliveira@gmail.com>"
   },
@@ -67,7 +67,16 @@
   "bugs": {
     "url": "https://github.com/codibre/tsconfig-paths-hook/issues"
   },
-  "keywords": ["ast", "transformer", "asttransformer", "jest", "ttypescript", "tsconfig-paths", "paths", "alias"],
+  "keywords": [
+    "ast",
+    "transformer",
+    "asttransformer",
+    "jest",
+    "ttypescript",
+    "tsconfig-paths",
+    "paths",
+    "alias"
+  ],
   "license": "MIT",
   "devDependencies": {
     "@codibre/confs": "^1.1.2",
