@@ -3,7 +3,6 @@
 [![Actions Status](https://github.com/Codibre/tsconfig-paths-hook/workflows/lint/badge.svg)](https://github.com/Codibre/tsconfig-paths-hook/actions)
 [![Test Coverage](https://api.codeclimate.com/v1/badges/f4b9f261a5f27db93932/test_coverage)](https://codeclimate.com/github/Codibre/tsconfig-paths-hook/test_coverage)
 [![Maintainability](https://api.codeclimate.com/v1/badges/f4b9f261a5f27db93932/maintainability)](https://codeclimate.com/github/Codibre/tsconfig-paths-hook/maintainability)
-[![Packages](https://david-dm.org/Codibre/tsconfig-paths-hook.svg)](https://david-dm.org/Codibre/tsconfig-paths-hook)
 
 # tsconfig-paths-hook
 
